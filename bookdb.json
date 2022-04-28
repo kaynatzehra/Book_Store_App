@@ -1,0 +1,40 @@
+{
+  "booklist": [
+    {
+      "id":1,
+      "Bookname": "2 States",
+      "Authorname": "Chetan Bhagat",
+      "Price": "1500",
+      "Bookimage": "https://images-na.ssl-images-amazon.com/images/I/513UI-mvqYL._SX311_BO1,204,203,200_.jpg"
+    },
+    {
+      "id":2,
+      "Bookname": "One Indian Girl",
+      "Authorname": "Chetan Bhagat",
+      "Price": "1200",
+      "Bookimage": "https://www.ajayonlinestall.com/wp-content/uploads/2021/02/9788129135728.png"
+    },
+    {
+      "id":3,
+      "Bookname": "Two faces",
+      "Authorname": "Judy Balan ",
+      "Price": "500",
+      "Bookimage": "https://images-na.ssl-images-amazon.com/images/I/513UI-mvqYL._SX311_BO1,204,203,200_.jpg"
+    },
+    {
+      "id":4,
+      "Bookname": "Five Points ",
+      "Authorname": "Chetan Bhagat",
+      "Price": "780",
+      "Bookimage": "https://images-na.ssl-images-amazon.com/images/I/513UI-mvqYL._SX311_BO1,204,203,200_.jpg"
+    },
+  
+    {
+      "id":5,
+      "Bookname": "Cultural Studies",
+      "Authorname": "Michael Ryan",
+      "Price": "800",
+      "Bookimage": "https://images-na.ssl-images-amazon.com/images/I/513UI-mvqYL._SX311_BO1,204,203,200_.jpg"
+    }
+  ]
+}

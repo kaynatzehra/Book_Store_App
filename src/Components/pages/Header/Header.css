@@ -1,0 +1,61 @@
+.header{
+    background-color: brown;
+    width:100vw;
+    padding: 10px;
+}
+.col-lg-4{
+    color: aliceblue;
+  
+}
+.log{
+    width: 50px;
+    height: 30px;
+
+}
+.form-control{
+width: 280px;
+}
+.logo-cart{
+    width: 50px;
+    height: 30px;
+margin-left: 15em;
+
+}
+.row{
+    color: black;
+}
+.totalitem{
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: white;
+    border: none;
+    border-radius: 46%;
+    text-align: center;
+    font-size: 13px;
+    width: 9px;
+    height: 20px;
+    padding-top: 3px;
+    position: absolute;
+    right: 179px;
+    top: 3px;
+
+}
+.cartsection{
+    display: flex;
+    justify-content: center;
+}
+.Book-icon{
+    color: white;
+    padding: 10px;
+    font-size: 48px;
+}
+.cart-icon{
+    font-size: 30px;
+    color: white;
+    padding-top: 10px;
+}
+.linkname{
+    color: white;
+    text-decoration: none;
+}

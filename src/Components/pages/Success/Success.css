@@ -1,0 +1,36 @@
+.successimage{
+    padding-top: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+.msg{
+    text-align: center;
+    font-weight: bold;
+}
+.orderTable {
+    width: 60%;
+    margin-top: 2%;
+  }
+  table,
+  td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+  }
+  th {
+    background-color: lightgray;
+    padding: 1%;
+  }
+  .Continue{
+  background-color: rgb(47, 181, 225);
+  margin: 0;
+  position: absolute;
+  width: 40%;
+  bottom: 10%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  font-weight: bold;
+  }
